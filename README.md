@@ -1,7 +1,6 @@
 ### Hi there 👋, My Name is Hritu Raz
 #### I am React Front End Developer.
-![I am React Front End Developer.][(https://repository-images.githubusercontent.com/356618349/3b652180-9a40-11eb-944c-96024f7d67de](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/337515737_1247011359572493_7756409530878726319_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=W3lngAc3aqUAX8_UT3L&_nc_ht=scontent.fdac5-1.fna&oh=00_AfAk0uJh6FFuQBzxepU_t_ce8N8GOdy98ufgbdnEqve5Qw&oe=641E2FD4))
-
+![I am React Front End Developer.
 Hello I am Hritu Raz. I am a Front-End Developer. Web Development is my passion. I am very passionate about my work. I have already learned the skills of web development. I am familiar with REACT JS & JavaScript Programming language. I want to learn more and more. I always want to try my best to explore new Skills.
 
 Skills: REACT / JS /JQUERY / HTML / CSS / TAILWIND / BOOTSTRAP / NODEJS / EXPRESS JS
