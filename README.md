@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is Hritu Raz
+[### Hi there 👋, My Name is Hritu Raz
 #### I am React Front End Developer.
 ![I am React Front End Developer.](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/259761865_113625664474512_6386857454915636701_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=YprIF3BC7IsAX9hmja4&_nc_ht=scontent.fdac5-1.fna&oh=00_AfCjdzG_gJ8GTrbJBs8uSEBtWxjFUQihV9pSLyrN1kRGqQ&oe=641F0596)
 
@@ -32,3 +32,4 @@ Skills: REACT / JS /JQUERY / HTML / CSS / TAILWIND / BOOTSTRAP / NODEJS / EXPRES
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/HrituRaz33)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/HrituRaz33)  
+](https://hrituraz.netlify.app/)
